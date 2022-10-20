@@ -1,2 +1,2 @@
 # Small project - Trello analog with Drag & Drop
-chloefoxlisa.github.io/Drag-Drop
+https://chloefoxlisa.github.io/Drag-Drop/
